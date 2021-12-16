@@ -1,0 +1,32 @@
+img {
+	width: 150px;
+}
+h1 {
+	color: red;
+}
+#new {
+	color: white;
+	background: blue;
+	width: 100px;
+	height: 75px;
+}
+span {
+	color: red;
+}
+.block {
+	padding: 50px;
+}	
+h2 {
+	margin: 5px;
+	color: white;
+	background: green;
+}
+
+.new {
+	margin-left: 100px;
+
+}
+.list {
+	font-size: 25px; 
+	border: 1px solid;
+}
